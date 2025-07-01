@@ -10,6 +10,11 @@ Features, usage and installation instructions are [summarised on the homepage](h
 1. Type `brew formulae` for a list.
 2. Or visit [formulae.brew.sh](https://formulae.brew.sh) to browse packages online.
 
+## Install
+
+1. Checkout the repository
+2. Type `make`
+
 ## More Documentation
 
 `brew help`, `man brew` or check [our documentation](https://docs.brew.sh/).
