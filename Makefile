@@ -1,4 +1,5 @@
 .PHONY: run build compile assets check release migrate
+.DEFAULT_GOAL := run
 
 build:
 	@echo "[build] Preparing environment..."
